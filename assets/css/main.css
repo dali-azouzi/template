@@ -1,0 +1,28 @@
+body{
+    font-family: 'Open Sans', sans-serif !important;
+
+}
+.logo{
+    width: 100px;    
+padding-bottom: 25px;
+}
+.main { 
+    background: url('../images/baseball.jpg'); 
+    
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    height: 768px;
+  }
+.p-font{
+    font-family: 'Dancing Script', cursive;
+    word-spacing: 5px;
+}
+.navFont{
+    font-family: 'Raleway', sans-serif;
+}
+.spacement{
+    padding-right: 3.5em;
+    color:white;
+}
+
